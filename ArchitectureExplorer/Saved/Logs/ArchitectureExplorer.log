@@ -1798,3 +1798,368 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.23-23.12.05:242][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
 [2020.06.23-23.12.05:259][124]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2020.06.23-23.12.05:268][124]LogEngine: Changing dynamic resolution state.
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_RoundCeilingLight_M (DXT1, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_RoundCeilingLight_N (BC5, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_RoundCeilingLight_AO (DXT1, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Anisotrophic_M (DXT1, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Anisotrophic_N (BC5, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_WoodFloor_N (BC5, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_WoodFloor_AO (DXT1, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_DustnScratches_M (DXT1, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_PaintedWall_N (BC5, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_DustnScratches_N (BC5, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Couch_Mask (DXT1, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Table_AOMASK (DXT1, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Leather_S (DXT1, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Couch_N (BC5, 4096X4096)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Couch_AO (AutoDXT, 4096X4096)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Background_D (AutoDXT, 4096X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Fabric_N (BC5, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Fabric_M (DXT1, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Cloth_D (DXT1, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Cloth_N (BC5, 2048X2048)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.06.23-23.35.32:289][892]LogTexture: Display: Building textures: T_Door_AOMask (DXT1, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X512)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 128X512)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_Socket_N (BC5, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_Socket_M (AutoDXT, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_Door_N (BC5, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_Door_M (DXT1, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_PlantSoil_N (BC5, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_Shelving_N (BC5, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_Shelving_M (AutoDXT, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_TV_N (BC5, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_TV_M2 (AutoDXT, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_PlantSoil_D (DXT1, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_TV_M (AutoDXT, 2048X2048)
+[2020.06.23-23.35.34:463][892]LogTexture: Display: Building textures: T_Carpet_N (BC5, 2048X2048)
+[2020.06.23-23.35.34:464][892]LogTexture: Display: Building textures: T_Leather_N (BC5, 2048X2048)
+[2020.06.23-23.35.34:619][892]LogTexture: Display: Building textures: T_Wood (DXT1, 2048X2048)
+[2020.06.23-23.35.44:037][892]LogTexture: Display: Building textures: T_Leather_D (DXT1, 2048X2048)
+[2020.06.23-23.35.44:037][892]LogTexture: Display: Building textures: T_Table_M (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Carpet_M (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Carpet_D (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Table_N (BC5, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Painting4_D (AutoDXT, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_SlidingDoor_N (BC5, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_SlidingDoor_M (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_SlidingDoor_AOMask (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_FloorLamp_N (BC5, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_FloorLamp_M (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_FloorLamp_AO (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_CubeMap_Cube (DXT1, 1024X1024)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Paint_N (BC5, 512X512)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Frame_N (BC5, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Frame_M (AutoDXT, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Painting_D (AutoDXT, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Wood_S (AutoDXT, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_Painting_N (BC5, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_PlantPot_N (BC5, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_PlantPot_M (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_PlantLeaf_N (BC5, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_PlantLeaf_M (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_PlantLeaf_D (DXT1, 2048X2048)
+[2020.06.23-23.35.44:038][892]LogTexture: Display: Building textures: T_PlantBark_D (DXT1, 512X2048)
+[2020.06.23-23.35.44:041][892]LogMaterial: Display: Missing cached shader map for material M_Door_MAT, compiling. 
+[2020.06.23-23.35.44:225][892]LogTexture: Display: Building textures: T_Galvanized_D (DXT1, 2048X2048)
+[2020.06.23-23.35.44:225][892]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2020.06.23-23.35.44:225][892]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.06.23-23.35.44:225][892]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.06.23-23.35.44:225][892]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.06.23-23.35.44:225][892]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.23-23.35.44:225][892]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.23-23.35.44:225][892]LogTexture: Display: Building textures: T_Galvanized_N (BC5, 2048X2048)
+[2020.06.23-23.35.44:225][892]LogStaticMesh: Building static mesh SM_Door...
+[2020.06.23-23.35.44:292][892]LogStaticMesh: Built static mesh [0.07s] /Game/ArchVis/Mesh/SM_Door.SM_Door
+[2020.06.23-23.35.44:306][892]LogMaterial: Display: Missing cached shader map for material M_RoundCeilingLight_Mat, compiling. 
+[2020.06.23-23.35.44:324][892]LogMaterial: Display: Missing cached shader map for material M_WoodFloor_MAT, compiling. 
+[2020.06.23-23.35.44:349][892]LogMaterial: Display: Missing cached shader map for material M_WallPainInterior_MAT, compiling. 
+[2020.06.23-23.35.45:434][892]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2020.06.23-23.35.45:434][892]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 62
+[2020.06.23-23.35.45:434][892]LogMaterial: Display: Missing cached shader map for material M_Background_Mat, compiling. 
+[2020.06.23-23.35.45:451][892]LogStaticMesh: Building static mesh SM_Background...
+[2020.06.23-23.35.45:452][892]LogStaticMesh: Built static mesh [0.00s] /Game/ArchVis/Mesh/SM_Background.SM_Background
+[2020.06.23-23.35.47:338][892]LogMaterial: Display: Missing cached shader map for material M_Couch_NOSSS_Mat, compiling. 
+[2020.06.23-23.35.47:382][892]LogMaterial: Display: Missing cached shader map for material M_CoffeTable_MAT, compiling. 
+[2020.06.23-23.35.47:558][892]LogStaticMesh: Building static mesh SM_Carpet...
+[2020.06.23-23.35.47:625][892]LogStaticMesh: Built static mesh [0.07s] /Game/ArchVis/Mesh/SM_Carpet.SM_Carpet
+[2020.06.23-23.35.47:646][892]LogMaterial: Display: Missing cached shader map for material M_Curtain_MAT, compiling. 
+[2020.06.23-23.35.47:683][892]LogStaticMesh: Building static mesh SM_Curtain...
+[2020.06.23-23.35.47:688][892]LogStaticMesh: Built static mesh [0.00s] /Game/ArchVis/Mesh/SM_Curtain.SM_Curtain
+[2020.06.23-23.35.47:748][892]LogStaticMesh: Building static mesh SM_Couch_1seat...
+[2020.06.23-23.35.47:789][892]LogStaticMesh: Built static mesh [0.04s] /Game/ArchVis/Mesh/SM_Couch_1seat.SM_Couch_1seat
+[2020.06.23-23.35.47:806][892]LogMaterial: Display: Missing cached shader map for material M_Socket, compiling. 
+[2020.06.23-23.35.47:840][892]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 160
+[2020.06.23-23.35.47:840][892]LogStaticMesh: Building static mesh Switch...
+[2020.06.23-23.35.47:842][892]LogStaticMesh: Built static mesh [0.00s] /Game/ArchVis/Mesh/Switch.Switch
+[2020.06.23-23.35.47:897][892]LogStaticMesh: Building static mesh SM_FloorLamp...
+[2020.06.23-23.35.47:921][892]LogStaticMesh: Built static mesh [0.02s] /Game/ArchVis/Mesh/SM_FloorLamp.SM_FloorLamp
+[2020.06.23-23.35.47:940][892]LogStaticMesh: Building static mesh SM_Shelving...
+[2020.06.23-23.35.47:952][892]LogStaticMesh: Built static mesh [0.01s] /Game/ArchVis/Mesh/SM_Shelving.SM_Shelving
+[2020.06.23-23.35.47:961][892]LogStaticMesh: Building static mesh SM_RoundCeilingLight...
+[2020.06.23-23.35.47:966][892]LogStaticMesh: Built static mesh [0.00s] /Game/ArchVis/Mesh/SM_RoundCeilingLight.SM_RoundCeilingLight
+[2020.06.23-23.35.47:998][892]LogStaticMesh: Building static mesh SM_SlidingDoors...
+[2020.06.23-23.35.48:025][892]LogStaticMesh: Built static mesh [0.03s] /Game/ArchVis/Mesh/SM_SlidingDoors.SM_SlidingDoors
+[2020.06.23-23.35.48:033][892]LogMaterial: Display: Missing cached shader map for material M_Shelving, compiling. 
+[2020.06.23-23.35.48:064][892]LogMaterial: Display: Missing cached shader map for material M_TV, compiling. 
+[2020.06.23-23.35.48:118][892]LogStaticMesh: Building static mesh SM_CoffeeTable...
+[2020.06.23-23.35.48:126][892]LogStaticMesh: Built static mesh [0.01s] /Game/ArchVis/Mesh/SM_CoffeeTable.SM_CoffeeTable
+[2020.06.23-23.35.48:243][892]LogStaticMesh: Building static mesh SM_Couch...
+[2020.06.23-23.35.48:337][892]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 222
+[2020.06.23-23.35.48:337][892]LogStaticMesh: Built static mesh [0.09s] /Game/ArchVis/Mesh/SM_Couch.SM_Couch
+[2020.06.23-23.35.48:370][892]LogStaticMesh: Building static mesh SM_Frame_1...
+[2020.06.23-23.35.48:375][892]LogStaticMesh: Built static mesh [0.01s] /Game/ArchVis/Mesh/SM_Frame_1.SM_Frame_1
+[2020.06.23-23.35.48:510][892]LogStaticMesh: Building static mesh SM_Plant...
+[2020.06.23-23.35.48:626][892]LogStaticMesh: Built static mesh [0.12s] /Game/ArchVis/Mesh/SM_Plant.SM_Plant
+[2020.06.23-23.35.48:664][892]LogStaticMesh: Building static mesh SM_TV...
+[2020.06.23-23.35.48:668][892]LogStaticMesh: Built static mesh [0.00s] /Game/ArchVis/Mesh/SM_TV.SM_TV
+[2020.06.23-23.35.48:673][892]LogMaterial: Display: Missing cached shader map for material M_Carptet_Mat, compiling. 
+[2020.06.23-23.35.48:744][892]LogMaterial: Display: Missing cached shader map for material M_PlantBark_Mat, compiling. 
+[2020.06.23-23.35.48:773][892]LogMaterial: Display: Missing cached shader map for material M_Painting_3, compiling. 
+[2020.06.23-23.35.48:795][892]LogMaterial: Display: Missing cached shader map for material T_Galvanized_Mat, compiling. 
+[2020.06.23-23.35.48:831][892]LogMaterial: Display: Missing cached shader map for material M_Painting_1, compiling. 
+[2020.06.23-23.35.48:865][892]LogMaterial: Display: Missing cached shader map for material M_FloorLamp_Mat, compiling. 
+[2020.06.23-23.35.48:895][892]LogMaterial: Display: Missing cached shader map for material M_SlidingDoor_Mat, compiling. 
+[2020.06.23-23.35.48:935][892]LogMaterial: Display: Missing cached shader map for material M_Glas_MAt, compiling. 
+[2020.06.23-23.35.49:048][892]LogMaterial: Display: Missing cached shader map for material M_PlantPot_Mat, compiling. 
+[2020.06.23-23.35.49:084][892]LogMaterial: Display: Missing cached shader map for material M_PlantLeaf_Mat, compiling. 
+[2020.06.23-23.35.49:210][892]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ArchVis/Maps/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01
+[2020.06.23-23.35.49:260][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.06.23-23.35.49:282][892]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 526
+[2020.06.23-23.35.49:282][892]Cmd: MAP LOAD FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/ArchVis/Maps/06_ArchVizPostProcess_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-23.35.49:283][892]LightingResults: New page: Lighting Build
+[2020.06.23-23.35.49:283][892]LoadErrors: New page: Loading map: 06_ArchVizPostProcess_01.umap
+[2020.06.23-23.35.49:283][892]LogWorld: UWorld::CleanupWorld for Sandbox, bSessionEnded=true, bCleanupResources=true
+[2020.06.23-23.35.49:283][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-23.35.49:283][892]MapCheck: New page: Map Check
+[2020.06.23-23.35.49:283][892]LightingResults: New page: Lighting Build
+[2020.06.23-23.35.49:329][892]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002AB55723E00), frame # 81892
+[2020.06.23-23.35.49:329][892]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002AB558BE0C0), frame # 81892
+[2020.06.23-23.35.49:334][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.06.23-23.35.49:342][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-23.35.49:342][892]LogAIModule: Creating AISystem for world 06_ArchVizPostProcess_01
+[2020.06.23-23.35.49:342][892]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002ABA2F66E00), frame # 81892
+[2020.06.23-23.35.49:343][892]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002AB8CEAB600), frame # 81892
+[2020.06.23-23.35.49:383][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.06.23-23.35.49:409][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-23.35.49:412][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.607ms to complete.
+[2020.06.23-23.35.49:412][892]LogFileHelpers: Loading map '06_ArchVizPostProcess_01' took 0.130
+[2020.06.23-23.35.50:084][900]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 516
+[2020.06.23-23.35.51:023][922]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 506
+[2020.06.23-23.35.51:050][923]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 496
+[2020.06.23-23.35.53:139][ 47]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 486
+[2020.06.23-23.35.53:938][ 95]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 476
+[2020.06.23-23.35.53:955][ 96]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 466
+[2020.06.23-23.35.54:324][118]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 456
+[2020.06.23-23.35.54:832][148]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 446
+[2020.06.23-23.35.55:160][167]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 436
+[2020.06.23-23.35.56:187][229]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 426
+[2020.06.23-23.35.56:239][232]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 416
+[2020.06.23-23.35.57:824][327]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 406
+[2020.06.23-23.35.58:607][373]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 396
+[2020.06.23-23.35.59:389][420]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 386
+[2020.06.23-23.35.59:505][427]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 376
+[2020.06.23-23.36.00:484][485]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 366
+[2020.06.23-23.36.01:123][522]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 356
+[2020.06.23-23.36.01:357][536]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 346
+[2020.06.23-23.36.01:383][537]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 336
+[2020.06.23-23.36.03:213][647]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 326
+[2020.06.23-23.36.04:123][700]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 316
+[2020.06.23-23.36.04:567][726]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 306
+[2020.06.23-23.36.05:253][767]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 296
+[2020.06.23-23.36.05:314][770]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 286
+[2020.06.23-23.36.05:595][786]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 276
+[2020.06.23-23.36.07:063][872]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 266
+[2020.06.23-23.36.07:365][890]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 256
+[2020.06.23-23.36.08:401][952]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 246
+[2020.06.23-23.36.08:465][955]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 236
+[2020.06.23-23.36.08:782][974]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 226
+[2020.06.23-23.36.09:377][  7]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 216
+[2020.06.23-23.36.10:211][ 57]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 206
+[2020.06.23-23.36.10:847][ 95]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 196
+[2020.06.23-23.36.11:870][153]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 186
+[2020.06.23-23.36.12:962][216]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 176
+[2020.06.23-23.36.13:162][228]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 166
+[2020.06.23-23.36.13:768][264]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 156
+[2020.06.23-23.36.14:353][299]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 146
+[2020.06.23-23.36.14:415][302]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 136
+[2020.06.23-23.36.14:990][337]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 126
+[2020.06.23-23.36.16:169][407]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 116
+[2020.06.23-23.36.18:091][522]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 106
+[2020.06.23-23.36.18:157][526]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 96
+[2020.06.23-23.36.18:509][547]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 86
+[2020.06.23-23.36.19:256][590]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 76
+[2020.06.23-23.36.19:369][596]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 66
+[2020.06.23-23.36.19:578][608]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 57
+[2020.06.23-23.36.20:494][662]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2020.06.23-23.36.22:788][796]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 42
+[2020.06.23-23.36.23:793][852]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2020.06.23-23.36.24:747][904]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 31
+[2020.06.23-23.36.24:790][907]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.06.23-23.36.24:900][913]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.06.23-23.36.26:198][991]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.06.23-23.36.26:214][992]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.06.23-23.36.26:463][  7]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.06.23-23.36.26:516][ 10]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.06.23-23.36.27:217][ 51]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.06.23-23.36.27:234][ 52]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.06.23-23.36.27:251][ 53]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.06.23-23.36.27:652][ 76]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.06.23-23.36.27:671][ 77]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.06.23-23.36.27:915][ 91]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.06.23-23.36.28:216][109]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.06.23-23.36.28:307][112]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.06.23-23.36.40:978][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.06.23-23.36.41:024][779]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01DE82382D45D66CB9EA5ED0A0AA5733C1.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/ArchVis/Maps/06_ArchVizPostProcess_01.umap'
+[2020.06.23-23.36.41:401][779]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01_BuiltDaD45F96014F88FABDE4634EA992E5F87F.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/ArchVis/Maps/06_ArchVizPostProcess_01_BuiltData.uasset'
+[2020.06.23-23.36.41:414][779]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.23-23.36.41:414][779]LogContentValidation: Display: Validating World /Game/ArchVis/Maps/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01
+[2020.06.23-23.36.41:414][779]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArchVis/Maps/06_ArchVizPostProcess_01_BuiltData.06_ArchVizPostProcess_01_BuiltData
+[2020.06.23-23.36.57:604][733]LogTemp: Repeating last play command: VR Preview
+[2020.06.23-23.36.57:618][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.23-23.36.57:618][733]LogHMD: Initializing OVRPlugin session
+[2020.06.23-23.36.57:726][733]LogHMD: Allocating Oculus 2688 x 1600 rendertarget swapchain
+[2020.06.23-23.36.57:727][733]PIE: New page: PIE session: 06_ArchVizPostProcess_01 (Jun 23, 2020, 7:36:57 AM)
+[2020.06.23-23.36.57:727][733]LogPlayLevel: Creating play world package: /Game/ArchVis/Maps/UEDPIE_0_06_ArchVizPostProcess_01
+[2020.06.23-23.36.57:734][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006671s)
+[2020.06.23-23.36.57:735][733]LogAIModule: Creating AISystem for world 06_ArchVizPostProcess_01
+[2020.06.23-23.36.57:735][733]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002ABA30F7600), frame # 85733
+[2020.06.23-23.36.57:735][733]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002AB18183100), frame # 85733
+[2020.06.23-23.36.57:735][733]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2020.06.23-23.36.57:735][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ArchVis/Maps/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01 to /Game/ArchVis/Maps/UEDPIE_0_06_ArchVizPostProcess_01.06_ArchVizPostProcess_01 (0.007777s)
+[2020.06.23-23.36.57:757][733]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.06.23-23.36.57:759][733]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.23-23.36.57:759][733]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.23-23.36.57:759][733]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.23-23.36.57:759][733]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.23-23.36.57:759][733]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.23-23.36.57:759][733]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.23-23.36.57:759][733]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.23-23.36.57:759][733]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.23-23.36.57:759][733]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.23-23.36.57:759][733]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.23-23.36.57:765][733]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.23-23.36.57:765][733]LogAudioMixer: Display: 1: FrontRight
+[2020.06.23-23.36.57:766][733]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.23-23.36.57:766][733]LogAudioMixer: Display: 1: FrontRight
+[2020.06.23-23.36.57:768][733]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.23-23.36.57:768][733]LogAudioMixer: Display: 1: FrontRight
+[2020.06.23-23.36.57:772][733]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.23-23.36.57:772][733]LogAudioMixer: Display: 1: FrontRight
+[2020.06.23-23.36.57:787][733]LogAudioMixer: Display: Using Audio Device Headphones (Rift Audio)
+[2020.06.23-23.36.57:787][733]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.06.23-23.36.57:788][733]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.06.23-23.36.57:788][733]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.06.23-23.36.57:788][733]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.06.23-23.36.57:802][733]LogInit: FAudioDevice initialized.
+[2020.06.23-23.36.57:813][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-23.36.57:859][733]LogLoad: Game class is 'VRGameMode_C'
+[2020.06.23-23.36.57:861][733]LogWorld: Bringing World /Game/ArchVis/Maps/UEDPIE_0_06_ArchVizPostProcess_01.06_ArchVizPostProcess_01 up for play (max tick rate 0) at 2020.06.23-15.36.57
+[2020.06.23-23.36.57:861][733]LogWorld: Bringing up level for play took: 0.001285
+[2020.06.23-23.36.57:861][733]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.06.23-23.36.57:871][733]PIE: Server logged in
+[2020.06.23-23.36.57:872][733]PIE: Play in editor total start time 0.256 seconds.
+[2020.06.23-23.36.57:872][733]LogEngine: Changing dynamic resolution state.
+[2020.06.23-23.36.57:876][733]LogHMD: Allocating Oculus 2688 x 1600 depth rendertarget swapchain
+[2020.06.23-23.37.37:491][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-23.37.37:491][547]LogWorld: BeginTearingDown for /Game/ArchVis/Maps/UEDPIE_0_06_ArchVizPostProcess_01
+[2020.06.23-23.37.37:535][547]LogSlate: Window 'ArchitectureExplorer Preview [NetMode: Standalone] (64-bit/Windows) OculusHMD' being destroyed
+[2020.06.23-23.37.37:565][547]LogWorld: UWorld::CleanupWorld for 06_ArchVizPostProcess_01, bSessionEnded=true, bCleanupResources=true
+[2020.06.23-23.37.37:565][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-23.37.37:575][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.23-23.37.37:579][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-23.37.37:617][547]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002AB18183100), frame # 89547
+[2020.06.23-23.37.37:617][547]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002ABA30F7600), frame # 89547
+[2020.06.23-23.37.37:619][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.06.23-23.37.37:641][548]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.06.23-23.37.37:646][548]LogEngine: Changing dynamic resolution state.
+[2020.06.23-23.38.12:560][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.06.23-23.38.12:597][614]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_019A1A3BD44DBB16121F6B0B8FF7E0D933.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/ArchVis/Maps/06_ArchVizPostProcess_01.umap'
+[2020.06.23-23.38.12:812][614]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01_BuiltDaDFAE28964D91E1D32491D08C32D4EA20.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/ArchVis/Maps/06_ArchVizPostProcess_01_BuiltData.uasset'
+[2020.06.23-23.38.12:826][614]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.23-23.38.12:826][614]LogContentValidation: Display: Validating World /Game/ArchVis/Maps/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01
+[2020.06.23-23.38.12:826][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ArchVis/Maps/06_ArchVizPostProcess_01_BuiltData.06_ArchVizPostProcess_01_BuiltData
+[2020.06.23-23.38.34:779][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.06.23-23.38.34:781][874]LogMetaData: Removing '/Game/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01_C' ref from Metadata '/Game/ArchVis/Maps/06_ArchVizPostProcess_01.PackageMetaData'
+[2020.06.23-23.38.34:781][874]LogMetaData: Removing '/Game/06_ArchVizPostProcess_01.SKEL_06_ArchVizPostProcess_01_C' ref from Metadata '/Game/ArchVis/Maps/06_ArchVizPostProcess_01.PackageMetaData'
+[2020.06.23-23.38.34:809][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/06_ArchVizPostProcess_01_BuiltData" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/06_ArchVizPostProcess_01_BuiltData.uasset" SILENT=true
+[2020.06.23-23.38.34:918][874]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01_BuiltDaE15897694E373211FBDBDA99C08DDE6B.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/06_ArchVizPostProcess_01_BuiltData.uasset'
+[2020.06.23-23.38.35:110][874]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2020.06.23-23.38.35:110][874]SourceControl: Error: ArchitectureExplorer/Content/06_ArchVizPostProcess_01_BuiltData.uasset
+[2020.06.23-23.38.35:110][874]SourceControl: Error: Use -f if you really want to add them.
+[2020.06.23-23.38.35:116][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/06_ArchVizPostProcess_01" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/06_ArchVizPostProcess_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.23-23.38.35:139][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.06.23-23.38.35:176][874]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01F3FCD5DE491F8EFD4C44ECBC3DC84CCA.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/06_ArchVizPostProcess_01.umap'
+[2020.06.23-23.38.35:412][874]LogFileHelpers: Saving map '06_ArchVizPostProcess_01' took 0.297
+[2020.06.23-23.38.35:945][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.06.23-23.38.35:966][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.06.23-23.38.35:994][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.06.23-23.38.36:014][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.06.23-23.38.36:049][874]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.23-23.38.36:049][874]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/06_ArchVizPostProcess_01_BuiltData.06_ArchVizPostProcess_01_BuiltData
+[2020.06.23-23.38.36:049][874]LogContentValidation: Display: Validating World /Game/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01
+[2020.06.23-23.38.50:783][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.06.23-23.38.50:785][677]LogMetaData: Removing '/Game/Maps/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01_C' ref from Metadata '/Game/06_ArchVizPostProcess_01.PackageMetaData'
+[2020.06.23-23.38.50:785][677]LogMetaData: Removing '/Game/Maps/06_ArchVizPostProcess_01.SKEL_06_ArchVizPostProcess_01_C' ref from Metadata '/Game/06_ArchVizPostProcess_01.PackageMetaData'
+[2020.06.23-23.38.50:836][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Sandbox_BuiltData" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/Sandbox_BuiltData.uasset" SILENT=true
+[2020.06.23-23.38.50:846][677]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/Sandbox_BuiltData29FA27D548FAFD12B1EBC5B147D57C2A.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/Sandbox_BuiltData.uasset'
+[2020.06.23-23.38.50:985][677]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2020.06.23-23.38.50:985][677]SourceControl: Error: ArchitectureExplorer/Content/Maps/Sandbox_BuiltData.uasset
+[2020.06.23-23.38.50:985][677]SourceControl: Error: Use -f if you really want to add them.
+[2020.06.23-23.38.50:989][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/06_ArchVizPostProcess_01_BuiltData" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/06_ArchVizPostProcess_01_BuiltData.uasset" SILENT=true
+[2020.06.23-23.38.51:101][677]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01_BuiltDa27A73F694FF866E95679F4A908AB1729.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/06_ArchVizPostProcess_01_BuiltData.uasset'
+[2020.06.23-23.38.51:238][677]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2020.06.23-23.38.51:238][677]SourceControl: Error: ArchitectureExplorer/Content/Maps/06_ArchVizPostProcess_01_BuiltData.uasset
+[2020.06.23-23.38.51:238][677]SourceControl: Error: Use -f if you really want to add them.
+[2020.06.23-23.38.51:266][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.06.23-23.38.51:304][677]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01E8EA7C4B4FD1050021A4EAB18B5F9CD1.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/06_ArchVizPostProcess_01.umap'
+[2020.06.23-23.38.51:551][677]LogFileHelpers: Saving map '06_ArchVizPostProcess_01' took 0.308
+[2020.06.23-23.38.51:551][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Sandbox" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/Sandbox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.23-23.38.51:576][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.06.23-23.38.51:589][677]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/SandboxC297712347F77767ACCBBFBDC85BF1EA.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/Sandbox.umap'
+[2020.06.23-23.38.51:864][677]LogFileHelpers: Saving map 'Sandbox' took 0.313
+[2020.06.23-23.38.51:865][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sandbox" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Sandbox.umap" SILENT=true
+[2020.06.23-23.38.51:871][677]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/Sandbox9CEB63CC4649233C4E5EE4AB5609064A.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Sandbox.umap'
+[2020.06.23-23.38.52:925][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.06.23-23.38.52:946][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.06.23-23.38.52:967][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.06.23-23.38.52:996][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.06.23-23.38.53:015][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.06.23-23.38.53:149][677]SourceControl: rm 'ArchitectureExplorer/Content/06_ArchVizPostProcess_01.umap'
+[2020.06.23-23.38.53:199][677]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.23-23.38.53:199][677]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Sandbox_BuiltData.Sandbox_BuiltData
+[2020.06.23-23.38.53:199][677]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/06_ArchVizPostProcess_01_BuiltData.06_ArchVizPostProcess_01_BuiltData
+[2020.06.23-23.38.53:199][677]LogContentValidation: Display: Validating World /Game/Maps/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01
+[2020.06.23-23.38.53:199][677]LogContentValidation: Display: Validating World /Game/Maps/Sandbox.Sandbox
+[2020.06.23-23.38.53:199][677]LogContentValidation: Display: Validating ObjectRedirector /Game/Sandbox.Sandbox
+[2020.06.23-23.38.54:875][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.06.23-23.38.54:908][769]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01B6A515F94B315912AEC6E791490CF70B.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/06_ArchVizPostProcess_01.umap'
+[2020.06.23-23.38.54:998][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/06_ArchVizPostProcess_01_BuiltData" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/06_ArchVizPostProcess_01_BuiltData.uasset" SILENT=true
+[2020.06.23-23.38.55:115][769]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/06_ArchVizPostProcess_01_BuiltDa828900A44B00E3068BC1828AECE212EE.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/Maps/06_ArchVizPostProcess_01_BuiltData.uasset'
+[2020.06.23-23.38.55:128][769]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.23-23.38.55:128][769]LogContentValidation: Display: Validating World /Game/Maps/06_ArchVizPostProcess_01.06_ArchVizPostProcess_01
+[2020.06.23-23.38.55:128][769]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/06_ArchVizPostProcess_01_BuiltData.06_ArchVizPostProcess_01_BuiltData
+[2020.06.23-23.51.41:458][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.06.23-23.51.41:467][131]LogMetaData: Removing '/Game/BP_VRGameMode.BP_VRGameMode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRGameMode.PackageMetaData'
+[2020.06.23-23.51.41:467][131]LogMetaData: Removing '/Game/BP_VRGameMode.SKEL_BP_VRGameMode_C' ref from Metadata '/Game/VRGameMode.PackageMetaData'
+[2020.06.23-23.51.41:467][131]LogMetaData: Removing '/Game/BP_VRGameMode.BP_VRGameMode_C' ref from Metadata '/Game/VRGameMode.PackageMetaData'
+[2020.06.23-23.51.41:468][131]LogMetaData: Removing '/Game/BP_VRGameMode.BP_VRGameMode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRGameMode.PackageMetaData'
+[2020.06.23-23.51.41:468][131]LogMetaData: Removing '/Game/BP_VRGameMode.BP_VRGameMode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRGameMode.PackageMetaData'
+[2020.06.23-23.51.41:506][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_VRGameMode" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/BP_VRGameMode.uasset" SILENT=true
+[2020.06.23-23.51.41:514][131]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/BP_VRGameMode257603C948B708BC0DB9D9A5510B28F2.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/BP_VRGameMode.uasset'
+[2020.06.23-23.51.41:713][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRGameMode" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/VRGameMode.uasset" SILENT=true
+[2020.06.23-23.51.41:721][131]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/VRGameModeA6E5F5ED4C0523DAF1A3838E523F6C4F.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/VRGameMode.uasset'
+[2020.06.23-23.51.42:035][131]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.23-23.51.42:035][131]LogContentValidation: Display: Validating Blueprint /Game/BP_VRGameMode.BP_VRGameMode
+[2020.06.23-23.51.42:035][131]LogContentValidation: Display: Validating ObjectRedirector /Game/VRGameMode.VRGameMode
+[2020.06.23-23.51.42:035][131]LogContentValidation: Display: Validating ObjectRedirector /Game/VRGameMode.VRGameMode_C
