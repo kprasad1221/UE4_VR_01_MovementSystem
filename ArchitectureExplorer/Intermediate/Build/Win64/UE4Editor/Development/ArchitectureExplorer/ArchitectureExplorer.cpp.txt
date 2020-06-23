@@ -1,0 +1,2 @@
+D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\Definitions.ArchitectureExplorer.h
+D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\ArchitectureExplorer.h

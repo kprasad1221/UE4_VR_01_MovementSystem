@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UnrealCourses\\GameDev\\VR\\ArchitectureExplorer\\Source\\ArchitectureExplorer\\ArchitectureExplorer.Build.cs",
+		"D:\\UnrealCourses\\GameDev\\VR\\ArchitectureExplorer\\Source\\ArchitectureExplorer.Target.cs",
+		"D:\\UnrealCourses\\GameDev\\VR\\ArchitectureExplorer\\Source\\ArchitectureExplorerEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

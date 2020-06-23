@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ArchitectureExplorer",
+			"Path": "D:\\UnrealCourses\\GameDev\\VR\\ArchitectureExplorer\\Source\\ArchitectureExplorer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArchitectureExplorerEditor",
+			"Path": "D:\\UnrealCourses\\GameDev\\VR\\ArchitectureExplorer\\Source\\ArchitectureExplorerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
