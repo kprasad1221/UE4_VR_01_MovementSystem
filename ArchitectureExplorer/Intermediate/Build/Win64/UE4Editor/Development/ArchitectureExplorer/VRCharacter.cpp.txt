@@ -1,0 +1,9 @@
+D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\Definitions.ArchitectureExplorer.h
+D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\VRCharacter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Inc\ArchitectureExplorer\VRCharacter.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
