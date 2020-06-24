@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ArchitectureExplorer.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DC6C316C-0062-4444-B64D-9C34147DD015}</UniqueIdentifier>
+      <UniqueIdentifier>{48809949-C7E3-4390-9C65-FAB98EA8CCDE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ArchitectureExplorer.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{936A0123-ADFD-47E3-B0B6-233D7FF69998}</UniqueIdentifier>
+      <UniqueIdentifier>{22E7C210-0C59-47E4-915C-980D0C5C0625}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\ArchitectureExplorer">
-      <UniqueIdentifier>{E7302246-39D6-4EF4-BD9C-B3DD0A079DBD}</UniqueIdentifier>
+      <UniqueIdentifier>{CE6D7B11-6CF2-43F8-A7C3-CA5645036459}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ArchitectureExplorer\ArchitectureExplorer.Build.cs">
       <Filter>Source\ArchitectureExplorer</Filter>

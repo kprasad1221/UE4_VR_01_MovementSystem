@@ -33,6 +33,9 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	class USceneComponent* VRRoot;
 
+	UPROPERTY(VisibleAnywhere)
+	class UStaticMeshComponent* DestinationMarker;
+
 private:
 	void MoveForward(float AxisValue);
 	void MoveRight(float AxisValue);
