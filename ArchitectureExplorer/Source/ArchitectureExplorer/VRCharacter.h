@@ -29,7 +29,13 @@ public:
 private:
 	UPROPERTY(VisibleAnywhere)
 	class UCameraComponent* Camera;
+
+	UPROPERTY(VisibleAnywhere)
+	class USceneComponent* VRRoot;
+
+private:
 	void MoveForward(float AxisValue);
 	void MoveRight(float AxisValue);
+
 
 };

@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeVRCharacter() {}
 	ARCHITECTUREEXPLORER_API UClass* Z_Construct_UClass_AVRCharacter();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_ArchitectureExplorer();
+	ENGINE_API UClass* Z_Construct_UClass_USceneComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 // End Cross Module References
 	void AVRCharacter::StaticRegisterNativesAVRCharacter()
@@ -32,6 +33,10 @@ void EmptyLinkFunctionForGeneratedCodeVRCharacter() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_VRRoot_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_VRRoot;
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_Camera_MetaData[];
 #endif
@@ -52,6 +57,14 @@ void EmptyLinkFunctionForGeneratedCodeVRCharacter() {}
 	};
 #endif
 #if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AVRCharacter_Statics::NewProp_VRRoot_MetaData[] = {
+		{ "Category", "VRCharacter" },
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "VRCharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRCharacter_Statics::NewProp_VRRoot = { "VRRoot", nullptr, (EPropertyFlags)0x00400000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AVRCharacter, VRRoot), Z_Construct_UClass_USceneComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AVRCharacter_Statics::NewProp_VRRoot_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AVRCharacter_Statics::NewProp_VRRoot_MetaData)) };
+#if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AVRCharacter_Statics::NewProp_Camera_MetaData[] = {
 		{ "Category", "VRCharacter" },
 		{ "EditInline", "true" },
@@ -60,6 +73,7 @@ void EmptyLinkFunctionForGeneratedCodeVRCharacter() {}
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AVRCharacter_Statics::NewProp_Camera = { "Camera", nullptr, (EPropertyFlags)0x00400000000a0009, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AVRCharacter, Camera), Z_Construct_UClass_UCameraComponent_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AVRCharacter_Statics::NewProp_Camera_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AVRCharacter_Statics::NewProp_Camera_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AVRCharacter_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AVRCharacter_Statics::NewProp_VRRoot,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AVRCharacter_Statics::NewProp_Camera,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AVRCharacter_Statics::StaticCppClassTypeInfo = {
@@ -89,7 +103,7 @@ void EmptyLinkFunctionForGeneratedCodeVRCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AVRCharacter, 4046234086);
+	IMPLEMENT_CLASS(AVRCharacter, 75120893);
 	template<> ARCHITECTUREEXPLORER_API UClass* StaticClass<AVRCharacter>()
 	{
 		return AVRCharacter::StaticClass();
