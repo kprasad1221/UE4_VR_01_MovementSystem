@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ARCHITECTUREEXPLORER_VRCharacter_generated_h
 
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_SPARSE_DATA
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_RPC_WRAPPERS
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_INCLASS_NO_PURE_DECLS \
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_SPARSE_DATA
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_RPC_WRAPPERS
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAVRCharacter(); \
 	friend struct Z_Construct_UClass_AVRCharacter_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AVRCharacter)
 
 
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_INCLASS \
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_INCLASS \
 private: \
 	static void StaticRegisterNativesAVRCharacter(); \
 	friend struct Z_Construct_UClass_AVRCharacter_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AVRCharacter)
 
 
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_STANDARD_CONSTRUCTORS \
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AVRCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AVRCharacter) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_ENHANCED_CONSTRUCTORS \
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AVRCharacter(AVRCharacter&&); \
@@ -58,36 +58,38 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AVRCharacter); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AVRCharacter)
 
 
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__Camera() { return STRUCT_OFFSET(AVRCharacter, Camera); } \
 	FORCEINLINE static uint32 __PPO__VRRoot() { return STRUCT_OFFSET(AVRCharacter, VRRoot); } \
 	FORCEINLINE static uint32 __PPO__DestinationMarker() { return STRUCT_OFFSET(AVRCharacter, DestinationMarker); } \
+	FORCEINLINE static uint32 __PPO__PostProcessComponent() { return STRUCT_OFFSET(AVRCharacter, PostProcessComponent); } \
 	FORCEINLINE static uint32 __PPO__TeleportRange() { return STRUCT_OFFSET(AVRCharacter, TeleportRange); } \
 	FORCEINLINE static uint32 __PPO__TeleportFadeTime() { return STRUCT_OFFSET(AVRCharacter, TeleportFadeTime); } \
-	FORCEINLINE static uint32 __PPO__TeleportProjectExtent() { return STRUCT_OFFSET(AVRCharacter, TeleportProjectExtent); }
+	FORCEINLINE static uint32 __PPO__TeleportProjectExtent() { return STRUCT_OFFSET(AVRCharacter, TeleportProjectExtent); } \
+	FORCEINLINE static uint32 __PPO__BlinkerMaterialBase() { return STRUCT_OFFSET(AVRCharacter, BlinkerMaterialBase); }
 
 
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_9_PROLOG
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_GENERATED_BODY_LEGACY \
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_11_PROLOG
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_SPARSE_DATA \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_RPC_WRAPPERS \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_INCLASS \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_STANDARD_CONSTRUCTORS \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_SPARSE_DATA \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_RPC_WRAPPERS \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_INCLASS \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_GENERATED_BODY \
+#define ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_SPARSE_DATA \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_INCLASS_NO_PURE_DECLS \
-	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_12_ENHANCED_CONSTRUCTORS \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_PRIVATE_PROPERTY_OFFSET \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_SPARSE_DATA \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_INCLASS_NO_PURE_DECLS \
+	ArchitectureExplorer_Source_ArchitectureExplorer_VRCharacter_h_14_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

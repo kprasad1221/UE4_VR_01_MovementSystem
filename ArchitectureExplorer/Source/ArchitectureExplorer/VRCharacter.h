@@ -4,6 +4,8 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Components/PostProcessComponent.h"
+#include "Materials/MaterialInstanceDynamic.h"
 #include "VRCharacter.generated.h"
 
 UCLASS()
@@ -19,7 +21,7 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
@@ -28,23 +30,29 @@ public:
 
 private:
 	UPROPERTY(VisibleAnywhere)
-	class UCameraComponent* Camera;
+		class UCameraComponent* Camera;
 
 	UPROPERTY(VisibleAnywhere)
-	class USceneComponent* VRRoot;
+		class USceneComponent* VRRoot;
 
 	UPROPERTY(VisibleAnywhere)
-	class UStaticMeshComponent* DestinationMarker;
+		class UStaticMeshComponent* DestinationMarker;
+
+	UPROPERTY()
+		class UPostProcessComponent* PostProcessComponent;
 
 private:
 	UPROPERTY(EditAnywhere)
-	float TeleportRange = 1000.f;
+		float TeleportRange = 1000.f;
 
 	UPROPERTY(EditAnywhere)
-	float TeleportFadeTime = 1.f;
+		float TeleportFadeTime = 1.f;
 
 	UPROPERTY(EditAnywhere)
-	FVector TeleportProjectExtent = FVector(100.f, 100.f, 100.f);
+		FVector TeleportProjectExtent = FVector(100.f, 100.f, 100.f);
+
+	UPROPERTY(EditAnywhere)
+		class UMaterialInstance* BlinkerMaterialBase;
 
 private:
 	void MoveForward(float AxisValue);

@@ -2770,3 +2770,233 @@ Scale3D: 1.000000 1.000000 1.000000
 [2020.06.25-04.07.50:564][747]MaterialEditorStats: Base pass vertex shader: 40 instructions
 [2020.06.25-04.07.50:564][747]MaterialEditorStats: Texture samplers: 1/16
 [2020.06.25-04.07.50:564][747]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.25-04.16.19:246][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.06.25-04.16.19:247][367]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/06_ArchVizPostProcess_01' took 0.024
+[2020.06.25-04.16.19:247][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/M_BlinkerMaterial] ([1] browsable assets)...
+[2020.06.25-04.16.19:279][367]OBJ SavePackage:     Rendered thumbnail for [Material /Game/M_BlinkerMaterial.M_BlinkerMaterial]
+[2020.06.25-04.16.19:279][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/M_BlinkerMaterial]
+[2020.06.25-04.16.19:279][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_BlinkerMaterial" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/Autosaves/Game/M_BlinkerMaterial_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.06.25-04.16.19:294][367]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/M_BlinkerMaterial_Auto3D150E6374B7EC5529D49BC9BF962785D.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/Autosaves/Game/M_BlinkerMaterial_Auto3.uasset'
+[2020.06.25-04.16.19:295][367]LogFileHelpers: Auto-saving content packages took 0.048
+[2020.06.25-04.30.17:646][260]LogMaterialEditor: Saving and Compiling material M_BlinkerMaterial
+[2020.06.25-04.30.18:103][260]LogMaterial: Display: Missing cached shader map for material M_BlinkerMaterial, compiling. 
+[2020.06.25-04.30.18:129][260]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.06.25-04.30.18:129][260]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.06.25-04.30.18:129][260]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.06.25-04.30.18:129][260]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.06.25-04.30.18:135][260]LogMaterial: Display: Missing cached shader map for material M_BlinkerMaterial, compiling. 
+[2020.06.25-04.30.18:164][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.06.25-04.30.18:167][260]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.06.25-04.30.18:167][260]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.06.25-04.30.18:167][260]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.06.25-04.30.18:167][260]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.06.25-04.30.18:168][260]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.06.25-04.30.18:189][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.06.25-04.30.18:730][260]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.06.25-04.30.18:730][260]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.06.25-04.30.18:749][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_BlinkerMaterial" FILE="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/M_BlinkerMaterial.uasset" SILENT=true
+[2020.06.25-04.30.18:761][260]LogSavePackage: Moving 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Saved/M_BlinkerMaterialC9A25EB34EAF382F86AEF8A735C0925B.tmp' to 'D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Content/M_BlinkerMaterial.uasset'
+[2020.06.25-04.30.18:772][260]AssetCheck: New page: Asset Save: M_BlinkerMaterial
+[2020.06.25-04.30.18:772][260]LogContentValidation: Display: Validating Material /Game/M_BlinkerMaterial.M_BlinkerMaterial
+[2020.06.25-04.33.50:919][625]Candidate modules for hot reload:
+[2020.06.25-04.33.50:919][625]  ArchitectureExplorer
+[2020.06.25-04.33.50:919][625]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArchitectureExplorer,5640 ArchitectureExplorerEditor Win64 Development -Project="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject" "D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject"  -IgnoreJunk]
+[2020.06.25-04.33.50:927][625]Warning: Starting HotReload took  0.0s.
+[2020.06.25-04.33.57:993][ 26]CompilerResultsLog: New page: Compilation - Jun 24, 2020, 12:33:57 PM
+[2020.06.25-04.33.57:993][ 26]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealCourses\GameDev\VR).
+[2020.06.25-04.33.57:993][ 26]CompilerResultsLog: Building ArchitectureExplorerEditor...
+[2020.06.25-04.33.57:993][ 26]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog:   [1/4] VRCharacter.cpp
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog:   [2/4] UE4Editor-ArchitectureExplorer-5640.lib
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog:      Creating library D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-5640.lib and object D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-5640.exp
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog:   [3/4] UE4Editor-ArchitectureExplorer-5640.dll
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog:      Creating library D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-5640.suppressed.lib and object D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-5640.suppressed.exp
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog:   [4/4] ArchitectureExplorerEditor.target
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog: Total time in Parallel executor: 6.35 seconds
+[2020.06.25-04.33.57:994][ 26]CompilerResultsLog: Total execution time: 6.97 seconds
+[2020.06.25-04.33.57:994][ 26]LogMainFrame: MainFrame: Module compiling took 7.078 seconds
+[2020.06.25-04.33.58:767][ 26]LogContentBrowser: Native class hierarchy updated for 'ArchitectureExplorer' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.06.25-04.33.58:771][ 26]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.06.25-04.33.58:855][ 26]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 3429 classes and 823 folders.
+[2020.06.25-04.33.58:855][ 26]Display: HotReload took  7.9s.
+[2020.06.25-04.37.24:205][879]Candidate modules for hot reload:
+[2020.06.25-04.37.24:205][879]  ArchitectureExplorer
+[2020.06.25-04.37.24:205][879]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArchitectureExplorer,8365 ArchitectureExplorerEditor Win64 Development -Project="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject" "D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject"  -IgnoreJunk]
+[2020.06.25-04.37.24:211][879]Warning: Starting HotReload took  0.0s.
+[2020.06.25-04.37.30:482][905]CompilerResultsLog: New page: Compilation - Jun 24, 2020, 12:37:30 PM
+[2020.06.25-04.37.30:482][905]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealCourses\GameDev\VR).
+[2020.06.25-04.37.30:482][905]CompilerResultsLog: Parsing headers for ArchitectureExplorerEditor
+[2020.06.25-04.37.30:482][905]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\ArchitectureExplorer.uproject" "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\ArchitectureExplorerEditor\Development\ArchitectureExplorerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kpras\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.06.25-04.37.30:482][905]CompilerResultsLog: Error: D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/Source/ArchitectureExplorer/VRCharacter.h(40)  : Error: Unrecognized type 'UPostProcessingComponent' - type must be a UCLASS, USTRUCT or UENUM
+[2020.06.25-04.37.30:482][905]LogMainFrame: MainFrame: Module compiling took 6.282 seconds
+[2020.06.25-04.37.30:482][905]Warning: HotReload failed, recompile failed
+[2020.06.25-04.39.52:685][945]Candidate modules for hot reload:
+[2020.06.25-04.39.52:685][945]  ArchitectureExplorer
+[2020.06.25-04.39.52:685][945]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArchitectureExplorer,2020 ArchitectureExplorerEditor Win64 Development -Project="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject" "D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject"  -IgnoreJunk]
+[2020.06.25-04.39.52:692][945]Warning: Starting HotReload took  0.0s.
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: New page: Compilation - Jun 24, 2020, 12:40:15 PM
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealCourses\GameDev\VR).
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: Parsing headers for ArchitectureExplorerEditor
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\ArchitectureExplorer.uproject" "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\ArchitectureExplorerEditor\Development\ArchitectureExplorerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kpras\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: Reflection code generated for ArchitectureExplorerEditor in 5.2835904 seconds
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: Building ArchitectureExplorerEditor...
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:   [1/6] ArchitectureExplorer.init.gen.cpp
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:   [2/6] VRCharacter.gen.cpp
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:   [3/6] VRCharacter.cpp
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:   [4/6] UE4Editor-ArchitectureExplorer-2020.lib
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:      Creating library D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-2020.lib and object D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-2020.exp
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:   [5/6] UE4Editor-ArchitectureExplorer-2020.dll
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:      Creating library D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-2020.suppressed.lib and object D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-2020.suppressed.exp
+[2020.06.25-04.40.15:848][320]CompilerResultsLog:   [6/6] ArchitectureExplorerEditor.target
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: Total time in Parallel executor: 17.17 seconds
+[2020.06.25-04.40.15:848][320]CompilerResultsLog: Total execution time: 23.07 seconds
+[2020.06.25-04.40.15:848][320]LogMainFrame: MainFrame: Module compiling took 23.166 seconds
+[2020.06.25-04.40.16:614][320]LogClass: Could not find existing class VRCharacter in package /Script/ArchitectureExplorer for HotReload, assuming new class
+[2020.06.25-04.40.16:622][320]LogHotReload: Re-instancing VRCharacter after hot-reload.
+[2020.06.25-04.40.16:681][320]LogContentBrowser: Native class hierarchy updated for 'ArchitectureExplorer' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.06.25-04.40.16:686][320]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.06.25-04.40.16:794][320]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 3429 classes and 823 folders.
+[2020.06.25-04.40.16:794][320]Display: HotReload took 24.1s.
+[2020.06.25-04.44.05:483][373]Candidate modules for hot reload:
+[2020.06.25-04.44.05:483][373]  ArchitectureExplorer
+[2020.06.25-04.44.05:484][373]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArchitectureExplorer,9882 ArchitectureExplorerEditor Win64 Development -Project="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject" "D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject"  -IgnoreJunk]
+[2020.06.25-04.44.05:490][373]Warning: Starting HotReload took  0.0s.
+[2020.06.25-04.44.19:381][923]CompilerResultsLog: New page: Compilation - Jun 24, 2020, 12:44:19 PM
+[2020.06.25-04.44.19:381][923]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealCourses\GameDev\VR).
+[2020.06.25-04.44.19:381][923]CompilerResultsLog: Parsing headers for ArchitectureExplorerEditor
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\ArchitectureExplorer.uproject" "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\ArchitectureExplorerEditor\Development\ArchitectureExplorerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kpras\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.06.25-04.44.19:381][923]CompilerResultsLog: Reflection code generated for ArchitectureExplorerEditor in 5.3022866 seconds
+[2020.06.25-04.44.19:381][923]CompilerResultsLog: Building ArchitectureExplorerEditor...
+[2020.06.25-04.44.19:381][923]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.25-04.44.19:381][923]CompilerResultsLog: Building 5 actions with 12 processes...
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:   [1/5] VRCharacter.gen.cpp
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:   D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer/VRCharacter.h(53): warning C4996: UProperty has been renamed to FProperty Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:    D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer/VRCharacter.h(54) : error C2144: syntax error: 'UMaterialInterface' should be preceded by ';'
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:    D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Inc\ArchitectureExplorer\VRCharacter.gen.cpp(176) : error C2512: 'FProperty': no appropriate default constructor available
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h(91): note: see declaration of 'FProperty'
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:   [2/5] VRCharacter.cpp
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:   D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\VRCharacter.h(53): warning C4996: UProperty has been renamed to FProperty Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:    D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\VRCharacter.h(54) : error C2144: syntax error: 'UMaterialInterface' should be preceded by ';'
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:    D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\VRCharacter.cpp(15) : error C2512: 'FProperty': no appropriate default constructor available
+[2020.06.25-04.44.19:381][923]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h(91): note: see declaration of 'FProperty'
+[2020.06.25-04.44.19:381][923]LogMainFrame: MainFrame: Module compiling took 13.902 seconds
+[2020.06.25-04.44.19:381][923]Warning: HotReload failed, recompile failed
+[2020.06.25-04.46.26:807][745]Candidate modules for hot reload:
+[2020.06.25-04.46.26:807][745]  ArchitectureExplorer
+[2020.06.25-04.46.26:807][745]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArchitectureExplorer,7240 ArchitectureExplorerEditor Win64 Development -Project="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject" "D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject"  -IgnoreJunk]
+[2020.06.25-04.46.26:813][745]Warning: Starting HotReload took  0.0s.
+[2020.06.25-04.46.34:219][175]CompilerResultsLog: New page: Compilation - Jun 24, 2020, 12:46:34 PM
+[2020.06.25-04.46.34:219][175]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealCourses\GameDev\VR).
+[2020.06.25-04.46.34:219][175]CompilerResultsLog: Parsing headers for ArchitectureExplorerEditor
+[2020.06.25-04.46.34:219][175]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\ArchitectureExplorer.uproject" "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\ArchitectureExplorerEditor\Development\ArchitectureExplorerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kpras\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.06.25-04.46.34:219][175]CompilerResultsLog: Reflection code generated for ArchitectureExplorerEditor in 5.4311282 seconds
+[2020.06.25-04.46.34:219][175]CompilerResultsLog: Building ArchitectureExplorerEditor...
+[2020.06.25-04.46.34:219][175]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.25-04.46.34:219][175]CompilerResultsLog: Building 5 actions with 12 processes...
+[2020.06.25-04.46.34:219][175]CompilerResultsLog:   [1/5] VRCharacter.gen.cpp
+[2020.06.25-04.46.34:219][175]CompilerResultsLog:   D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer/VRCharacter.h(54): warning C4996: UProperty has been renamed to FProperty Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.06.25-04.46.34:219][175]CompilerResultsLog:    D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer/VRCharacter.h(55) : error C2144: syntax error: 'UMaterialInterface' should be preceded by ';'
+[2020.06.25-04.46.34:219][175]CompilerResultsLog:    D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Inc\ArchitectureExplorer\VRCharacter.gen.cpp(176) : error C2512: 'FProperty': no appropriate default constructor available
+[2020.06.25-04.46.34:220][175]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h(91): note: see declaration of 'FProperty'
+[2020.06.25-04.46.34:220][175]CompilerResultsLog:   [2/5] VRCharacter.cpp
+[2020.06.25-04.46.34:220][175]CompilerResultsLog:   D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\VRCharacter.h(54): warning C4996: UProperty has been renamed to FProperty Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2020.06.25-04.46.34:220][175]CompilerResultsLog:    D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\VRCharacter.h(55) : error C2144: syntax error: 'UMaterialInterface' should be preceded by ';'
+[2020.06.25-04.46.34:220][175]CompilerResultsLog:    D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\VRCharacter.cpp(15) : error C2512: 'FProperty': no appropriate default constructor available
+[2020.06.25-04.46.34:220][175]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h(91): note: see declaration of 'FProperty'
+[2020.06.25-04.46.34:220][175]LogMainFrame: MainFrame: Module compiling took 7.416 seconds
+[2020.06.25-04.46.34:220][175]Warning: HotReload failed, recompile failed
+[2020.06.25-04.49.55:339][112]Candidate modules for hot reload:
+[2020.06.25-04.49.55:339][112]  ArchitectureExplorer
+[2020.06.25-04.49.55:339][112]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArchitectureExplorer,7527 ArchitectureExplorerEditor Win64 Development -Project="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject" "D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject"  -IgnoreJunk]
+[2020.06.25-04.49.55:346][112]Warning: Starting HotReload took  0.0s.
+[2020.06.25-04.50.13:794][911]CompilerResultsLog: New page: Compilation - Jun 24, 2020, 12:50:13 PM
+[2020.06.25-04.50.13:794][911]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealCourses\GameDev\VR).
+[2020.06.25-04.50.13:794][911]CompilerResultsLog: Parsing headers for ArchitectureExplorerEditor
+[2020.06.25-04.50.13:794][911]CompilerResultsLog:   Running UnrealHeaderTool "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\ArchitectureExplorer.uproject" "D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\ArchitectureExplorerEditor\Development\ArchitectureExplorerEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\kpras\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2020.06.25-04.50.13:794][911]CompilerResultsLog: Reflection code generated for ArchitectureExplorerEditor in 5.3510846 seconds
+[2020.06.25-04.50.13:794][911]CompilerResultsLog: Building ArchitectureExplorerEditor...
+[2020.06.25-04.50.13:794][911]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.25-04.50.13:794][911]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.06.25-04.50.13:794][911]CompilerResultsLog:   [1/6] ArchitectureExplorer.init.gen.cpp
+[2020.06.25-04.50.13:794][911]CompilerResultsLog:   [2/6] VRCharacter.gen.cpp
+[2020.06.25-04.50.13:794][911]CompilerResultsLog:   [3/6] VRCharacter.cpp
+[2020.06.25-04.50.13:794][911]CompilerResultsLog:   [4/6] UE4Editor-ArchitectureExplorer-7527.lib
+[2020.06.25-04.50.13:794][911]CompilerResultsLog:      Creating library D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-7527.lib and object D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-7527.exp
+[2020.06.25-04.50.13:794][911]CompilerResultsLog:   [5/6] UE4Editor-ArchitectureExplorer-7527.dll
+[2020.06.25-04.50.13:795][911]CompilerResultsLog:      Creating library D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-7527.suppressed.lib and object D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-7527.suppressed.exp
+[2020.06.25-04.50.13:795][911]CompilerResultsLog:   [6/6] ArchitectureExplorerEditor.target
+[2020.06.25-04.50.13:795][911]CompilerResultsLog: Total time in Parallel executor: 12.15 seconds
+[2020.06.25-04.50.13:795][911]CompilerResultsLog: Total execution time: 18.12 seconds
+[2020.06.25-04.50.13:795][911]LogMainFrame: MainFrame: Module compiling took 18.460 seconds
+[2020.06.25-04.50.14:562][911]LogClass: Could not find existing class VRCharacter in package /Script/ArchitectureExplorer for HotReload, assuming new class
+[2020.06.25-04.50.14:571][911]LogHotReload: Re-instancing VRCharacter after hot-reload.
+[2020.06.25-04.50.14:621][911]LogContentBrowser: Native class hierarchy updated for 'ArchitectureExplorer' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.06.25-04.50.14:627][911]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.06.25-04.50.14:758][911]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 3429 classes and 823 folders.
+[2020.06.25-04.50.14:758][911]Display: HotReload took 19.4s.
+[2020.06.25-04.50.17:730][988]Candidate modules for hot reload:
+[2020.06.25-04.50.17:730][988]  ArchitectureExplorer
+[2020.06.25-04.50.17:730][988]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArchitectureExplorer,3166 ArchitectureExplorerEditor Win64 Development -Project="D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject" "D:/UnrealCourses/GameDev/VR/ArchitectureExplorer/ArchitectureExplorer.uproject"  -IgnoreJunk]
+[2020.06.25-04.50.17:737][988]Warning: Starting HotReload took  0.0s.
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog: New page: Compilation - Jun 24, 2020, 12:50:19 PM
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealCourses\GameDev\VR).
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog: Building ArchitectureExplorerEditor...
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog: Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog:   [1/3] UE4Editor-ArchitectureExplorer-3166.lib
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog:      Creating library D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-3166.lib and object D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-3166.exp
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog:   [2/3] UE4Editor-ArchitectureExplorer-3166.dll
+[2020.06.25-04.50.19:184][ 58]CompilerResultsLog:      Creating library D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-3166.suppressed.lib and object D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Development\ArchitectureExplorer\UE4Editor-ArchitectureExplorer-3166.suppressed.exp
+[2020.06.25-04.50.19:185][ 58]CompilerResultsLog:   [3/3] ArchitectureExplorerEditor.target
+[2020.06.25-04.50.19:185][ 58]CompilerResultsLog: Total time in Parallel executor: 0.79 seconds
+[2020.06.25-04.50.19:185][ 58]CompilerResultsLog: Total execution time: 1.35 seconds
+[2020.06.25-04.50.19:185][ 58]LogMainFrame: MainFrame: Module compiling took 1.457 seconds
+[2020.06.25-04.50.19:447][ 58]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.25-04.50.19:447][ 58]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: === Critical error: ===
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: 
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: Fatal error: [File:D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp] [Line: 2335] 
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: Objects have the same fully qualified name but different paths.
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: 	New Object: VRCharacter /Engine/Transient.Default__VRCharacter
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: 	Existing Object: HOTRELOADED_VRCharacter_1 /Engine/Transient.Default__VRCharacter
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: 
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: 
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8ac47a799 KERNELBASE.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8468beb46 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8468c1f28 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff84664e53d UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff84750dfda UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff87369499c UE4Editor-ArchitectureExplorer-3166.dll!AVRCharacter::__VTableCtorCaller() [D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Source\ArchitectureExplorer\VRCharacter.h:14]
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff84727f2db UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff84727c0cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff873694deb UE4Editor-ArchitectureExplorer-3166.dll!AVRCharacter::GetPrivateStaticClass() [D:\UnrealCourses\GameDev\VR\ArchitectureExplorer\Intermediate\Build\Win64\UE4Editor\Inc\ArchitectureExplorer\VRCharacter.gen.cpp:183]
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff873694c4f UE4Editor-ArchitectureExplorer-3166.dll!TClassCompiledInDefer<AVRCharacter>::Register() [C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject\UObjectBase.h:288]
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8475164b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8474f5b7e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8474143b5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff84668987a UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8466a9a00 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8466a8b18 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8025fb9b2 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8025f9617 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8025fa1ad UE4Editor-HotReload.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff80260c057 UE4Editor-HotReload.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff84640d0a9 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff66bd7a213 UE4Editor.exe!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff66bd8ba7c UE4Editor.exe!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff66bd8bb5a UE4Editor.exe!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff66bd9e31d UE4Editor.exe!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff66bda145a UE4Editor.exe!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8aca27bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: [Callstack] 0x00007ff8ae9cce51 ntdll.dll!UnknownFunction []
+[2020.06.25-04.50.21:565][ 58]LogWindows: Error: 
+[2020.06.25-04.50.21:579][ 58]LogExit: Executing StaticShutdownAfterError
+[2020.06.25-04.50.21:591][ 58]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.06.25-04.50.21:591][ 58]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.06.25-04.50.21:605][ 58]Log file closed, 06/24/20 20:50:21
