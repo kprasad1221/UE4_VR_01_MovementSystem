@@ -37,8 +37,23 @@ private:
 	class UStaticMeshComponent* DestinationMarker;
 
 private:
+	UPROPERTY(EditAnywhere)
+	float TeleportRange = 1000.f;
+
+	UPROPERTY(EditAnywhere)
+	float TeleportFadeTime = 1.f;
+
+	UPROPERTY(EditAnywhere)
+	FVector TeleportProjectExtent = FVector(100.f, 100.f, 100.f);
+
+private:
 	void MoveForward(float AxisValue);
 	void MoveRight(float AxisValue);
+	void UpdateDestinationMarker();
+	void BeginTeleport();
+	void FinishTeleport();
+	void StartFade(float FromAlpha, float ToAlpha);
+	bool FindTeleportLocation(FVector& OutLocation);
 
 
 };
